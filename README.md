@@ -1,6 +1,6 @@
 ## Material Theme
 
-Material Theme by Itrostack LLP
+Material Theme by Tomeku LLC
 
 Making Frappe more colorful with Material Design.
 
